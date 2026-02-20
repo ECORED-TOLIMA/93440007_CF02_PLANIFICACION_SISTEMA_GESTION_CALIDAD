@@ -5,7 +5,31 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
-      h1 Tema 3
+      h1 Métodos de solución de problemas y mejora
+
+    separador
+    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 3.1 Jurado de opinión o selección ponderada
+
+    separador
+    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 3.2 Diagrama de Pareto
+
+    separador
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 3.3 Diagrama causa-efecto
+
+    separador
+    #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 3.4 Tormenta de ideas
+
+    separador
+    #t_3_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 3.5 Diagrama de dispersión
+
+    separador
+    #t_3_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 3.6 Introducción a Seis Sigma
 
 </template>
 
