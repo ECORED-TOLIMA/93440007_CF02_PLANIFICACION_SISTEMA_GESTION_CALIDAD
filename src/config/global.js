@@ -434,7 +434,8 @@ export default {
         {
           nombre: 'Alejandro Mantilla Cáceres',
           cargo: 'Experto temático',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Claudia Milena Hernández Naranjo',
