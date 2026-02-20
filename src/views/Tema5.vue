@@ -240,7 +240,7 @@
       .col.col-lg-10.col-12
         .tarjeta.tarjeta--C01.p-4
           .row.justify-content-center
-            .col.col-lg-9.order-lg-2.order-2
+            .col.col-lg-9.col-12.order-lg-2.order-2
               p.mb-0(data-aos="fade-down") El control de los procesos externos implica definir claramente las especificaciones técnicas, los criterios de aceptación, los métodos de verificación y las responsabilidades asociadas a la provisión del producto o servicio. Asimismo, es necesario establecer mecanismos de comunicación con los proveedores para garantizar la comprensión de los requisitos, incluyendo aspectos relacionados con calidad, tiempos de entrega, cumplimiento legal y desempeño esperado.
             .col.col-lg-auto.col-auto.order-lg-1.order-1.mb-3.mb-lg-0
               figure

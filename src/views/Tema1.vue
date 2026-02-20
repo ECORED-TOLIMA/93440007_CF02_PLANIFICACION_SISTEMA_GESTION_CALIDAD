@@ -355,7 +355,7 @@
       .col.col-lg-10.col-12
         .tarjeta.tarjeta--C01.p-4
           .row.justify-content-center
-            .col.col-lg-10.order-lg-2.order-2
+            .col.col-lg-10.col-12.order-lg-2.order-2
               p.mb-0(data-aos="fade-down") Una vez identificados los procesos, la organización debe establecer una estructura que permita representar su relación e interacción. Esta representación se conoce como mapa de procesos, el cual facilita la comprensión del funcionamiento organizacional y permite identificar responsabilidades, flujos de información y relaciones entre actividades.
             .col.col-lg-2.col-auto.order-lg-1.order-1.mb-3
               figure
