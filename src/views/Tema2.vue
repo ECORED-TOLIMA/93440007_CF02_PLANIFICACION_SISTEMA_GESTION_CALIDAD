@@ -300,7 +300,7 @@
       .col.col-lg-8.col-12
         .tarjeta.tarjeta--C01.p-4
           .row.justify-content-center
-            .col.col-lg-9.order-lg-2.order-2
+            .col.col-lg-9.col-12.order-lg-2.order-2
               p.mb-0(data-aos="fade-down") En este caso, el análisis permite identificar que, aunque el resultado es cercano a la meta, existen oportunidades de mejora relacionadas con la atención al cliente, tiempos de respuesta o calidad del servicio prestado.
             .col.col-lg-auto.col-auto.order-lg-1.order-1.mb-3.mb-lg-0
               figure

@@ -11,7 +11,7 @@
       .col.col-lg-10.col-12
         .tarjeta.tarjeta--C01.p-4
           .row.justify-content-center
-            .col.col-lg-10.order-lg-1.order-2
+            .col.col-lg-10.col-12.order-lg-1.order-2
               p.mb-0(data-aos="fade-down") Dentro del Sistema de Gestión de la Calidad, el control de calidad permite realizar seguimiento sistemático al desempeño de los procesos mediante la medición, el análisis y la evaluación de los resultados. A través de este control, las organizaciones pueden identificar desviaciones, prevenir errores y aplicar acciones correctivas o de mejora que favorezcan la eficiencia operativa.
             .col.col-lg-2.col-auto.order-lg-2.order-1.mb-3.mb-lg-0.mb-3
               figure

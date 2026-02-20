@@ -333,7 +333,7 @@
       .col.col-lg-10.col-12
         .tarjeta.tarjeta--C01.p-4
           .row.justify-content-center
-            .col.col-lg-9.order-lg-2.order-2
+            .col.col-lg-9.col-12.order-lg-2.order-2
               p.mb-0(data-aos="fade-down") El control de la producción y provisión del servicio también contempla la gestión de la propiedad del cliente o de proveedores externos, asegurando su adecuada identificación, protección y conservación mientras esté bajo responsabilidad de la organización.
             .col.col-lg-auto.col-auto.order-lg-1.order-1.mb-3.mb-lg-0
               figure

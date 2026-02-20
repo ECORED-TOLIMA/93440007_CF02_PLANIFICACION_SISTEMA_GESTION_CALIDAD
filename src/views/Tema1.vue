@@ -23,7 +23,7 @@
       .col.col-lg-10.col-12
         .tarjeta.tarjeta--C01.p-4
           .row.justify-content-center
-            .col.col-lg-10.order-lg-1.order-2
+            .col.col-lg-10.col-12.order-lg-1.order-2
               p.mb-0(data-aos="fade-down") La gestión de procesos no solo se limita a documentar actividades, sino que implica analizar la forma en que se desarrollan, identificar oportunidades de optimización y garantizar que cada proceso aporte al cumplimiento de los objetivos institucionales. Para ello, se requiere la participación activa del talento humano, el liderazgo directivo y el uso de herramientas que permitan evaluar y mejorar continuamente el desempeño organizacional.
             .col.col-lg-2.col-auto.order-lg-2.order-1.mb-3
               figure
@@ -388,7 +388,7 @@
       .col.col-lg-10.col-12
         .tarjeta.tarjeta--C01.p-4
           .row.justify-content-center
-            .col.col-lg-10.order-lg-1.order-2
+            .col.col-lg-10.col-12.order-lg-1.order-2
               p.mb-0(data-aos="fade-down") La aplicación del modelo ISO 9001:2015 promueve una visión sistémica de la organización, permitiendo articular la planificación, operación, evaluación y mejora de los procesos, contribuyendo al fortalecimiento del desempeño institucional y al cumplimiento de los requisitos del Sistema de Gestión de la Calidad.
             .col.col-lg-2.col-auto.order-lg-2.order-1
               figure
@@ -549,7 +549,7 @@
       .col.col-lg-10.col-12
         .tarjeta.tarjeta--C01.p-4
           .row.justify-content-center
-            .col.col-lg-10.order-lg-2.order-2
+            .col.col-lg-10.col-12.order-lg-2.order-2
               p.mb-0(data-aos="fade-down") La mejora de procesos se encuentra estrechamente relacionada con el ciclo PHVA, ya que permite planificar cambios, implementar acciones, evaluar resultados y establecer ajustes orientados al perfeccionamiento continuo. De esta manera, se promueve una cultura organizacional basada en la calidad, el aprendizaje permanente y la innovación, favoreciendo la sostenibilidad y el crecimiento institucional.
             .col.col-lg-2.col-auto.order-lg-1.order-1
               figure
