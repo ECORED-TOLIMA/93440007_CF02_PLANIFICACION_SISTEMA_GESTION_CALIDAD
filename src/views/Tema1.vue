@@ -228,7 +228,7 @@
                 li.mb-0
                   i.lista-ul__vineta
                   p.mb-0 Satisfacción de los usuarios.
-          .row(titulo="Industria del software")
+          .row(titulo="Industria del <em>software</em>")
             .col-12.mb-0.mb-md-0
               ul.lista-ul.mb-0
                 li.mb-0

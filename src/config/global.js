@@ -323,91 +323,95 @@ export default {
   referencias: [
     {
       referencia:
-        'Betancourt, D. (2015). Diseño y desarrollo de productos y servicios en ISO 9001.',
+        'Betancourt, D. (2015). <em>Diseño y desarrollo de productos y servicios en ISO 9001</em>.',
       link: 'https://www.ingenioempresa.com/diseno-desarrollo-iso-9001/',
     },
 
-    { referencia: 'Cabrera, H. (s.f.). 1.8 Mejoramiento continuo.', link: '' },
-
     {
-      referencia:
-        'Canela López, J. R. (2004). La gestión por calidad total en la empresa moderna. Alfaomega.',
+      referencia: 'Cabrera, H. (s.f.). <em>1.8 Mejoramiento continuo</em>.',
       link: '',
     },
 
     {
       referencia:
-        'Cantú Delgado, H. (1997). Desarrollo de una cultura de calidad (1.ª ed.). McGraw-Hill.',
+        'Canela López, J. R. (2004). <em>La gestión por calidad total en la empresa moderna</em>. Alfaomega.',
       link: '',
     },
 
     {
       referencia:
-        'Deming, W. E. (s.f.). Calidad, productividad y competitividad: La salida de la crisis.',
+        'Cantú Delgado, H. (1997). <em>Desarrollo de una cultura de calidad</em> (1.ª ed.). McGraw-Hill.',
       link: '',
     },
 
     {
       referencia:
-        'Euskalit. (s.f.). Herramientas para resolución de problemas.',
+        'Deming, W. E. (s.f.). <em>Calidad, productividad y competitividad: La salida de la crisis</em>.',
       link: '',
     },
 
     {
       referencia:
-        'Fred, R. (1997). Conceptos de administración estratégica. Prentice Hall Hispanoamericana.',
+        'Euskalit. (s.f.). <em>Herramientas para resolución de problemas</em>.',
       link: '',
     },
 
     {
       referencia:
-        'Geocities. (s.f.). ISO 9000 para pequeñas y medianas empresas (pymes).',
+        'Fred, R. (1997). <em>Conceptos de administración estratégica</em>. Prentice Hall Hispanoamericana.',
       link: '',
     },
 
     {
       referencia:
-        'Harrington, J., & Harrington, J. Jr. (1997). Administración total del mejoramiento continuo. McGraw-Hill.',
+        'Geocities. (s.f.). <em>ISO 9000 para pequeñas y medianas empresas (pymes)</em>.',
       link: '',
     },
 
     {
       referencia:
-        'International Organization for Standardization (ISO). (2015). ISO 9001:2015 – Quality management systems – Requirements. ISO.',
+        'Harrington, J., & Harrington, J. Jr. (1997). <em>Administración total del mejoramiento continuo</em>. McGraw-Hill.',
       link: '',
     },
 
     {
       referencia:
-        'Juran, J. M., Gryna, F., & Bingham, R. S. (1983). Manual de control de la calidad (p. 14). Reverte.',
-      link: '',
-    },
-
-    {
-      referencia: 'Maldonado, J. Á. (2015). Fundamentos de calidad total.',
+        'International Organization for Standardization <em>(ISO). (2015). ISO 9001:2015 – Quality management systems – Requirements</em>. ISO.',
       link: '',
     },
 
     {
       referencia:
-        'Serna Gómez, H. (2008). Gerencia estratégica (10.ª ed.). 3R Editores.',
+        'Juran, J. M., Gryna, F., & Bingham, R. S. (1983). <em>Manual de control de la calidad</em> (p. 14). Reverte.',
       link: '',
     },
 
     {
       referencia:
-        'Summers, D. C. (2006). Administración de la calidad (1.ª ed.). Pearson.',
+        'Maldonado, J. Á. (2015). <em>Fundamentos de calidad total</em>.',
       link: '',
     },
 
     {
       referencia:
-        'Udaondo Durán, M. (1992). Gestión de calidad (p. 35). Díaz de Santos.',
+        'Serna Gómez, H. (2008). <em>Gerencia estratégica</em> (10.ª ed.). 3R Editores.',
       link: '',
     },
 
     {
-      referencia: 'WorkMeter. (2014). La mejora continua de procesos.',
+      referencia:
+        'Summers, D. C. (2006). <em>Administración de la calidad</em> (1.ª ed.). Pearson.',
+      link: '',
+    },
+
+    {
+      referencia:
+        'Udaondo Durán, M. (1992). <em>Gestión de calidad</em> (p. 35). Díaz de Santos.',
+      link: '',
+    },
+
+    {
+      referencia: 'WorkMeter. (2014). <em>La mejora continua de procesos</em>.',
       link: 'https://www.workmeter.com/blog/la-mejora-continua-de-procesos/',
     },
   ],

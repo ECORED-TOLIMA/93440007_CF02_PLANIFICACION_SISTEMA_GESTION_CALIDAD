@@ -40,7 +40,7 @@
       .col.col-lg-7.col-12.order-lg-1.order-2
         .row.justify-content-center
           .col.col-lg-10.order-lg-2.order-2
-            p(data-aos="fade-down") Los sistemas de medición corresponden al conjunto de instrumentos, métodos, procedimientos, software, personal y condiciones utilizadas para obtener datos que permitan evaluar las características de un proceso, producto o servicio. Su correcta implementación garantiza la confiabilidad de la información utilizada para la toma de decisiones dentro del Sistema de Gestión de la Calidad.
+            p(data-aos="fade-down") Los sistemas de medición corresponden al conjunto de instrumentos, métodos, procedimientos, #[em software], personal y condiciones utilizadas para obtener datos que permitan evaluar las características de un proceso, producto o servicio. Su correcta implementación garantiza la confiabilidad de la información utilizada para la toma de decisiones dentro del Sistema de Gestión de la Calidad.
           .col.col-lg-auto.order-lg-1.order-1.d-none.d-lg-block
             figure
               img(src='@/assets/curso/tema4/img04.svg', alt='Imagen decorativa')
@@ -68,7 +68,7 @@
       .col.col-lg-10.col-12
         .tarjeta.tarjeta--C04.p-4
           .row.justify-content-center
-            .col.col-lg-11.order-lg-2.order-2
+            .col.col-lg-11.col-12.order-lg-2.order-2
               p.mb-0(data-aos="fade-down") La confiabilidad de un sistema de medición depende de características como la exactitud, la precisión, la repetibilidad y la reproducibilidad. Estas características permiten evaluar la calidad de los datos obtenidos y determinar si los resultados son consistentes y confiables para el análisis organizacional.
             .col.col-lg-1.col-auto.order-lg-1.order-1.mb-3.mb-lg-0.mb-3
               figure
@@ -236,7 +236,7 @@
             .col-lg-8.col-10.order-lg-1.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/tema4/img22.png', alt='Imagen decorativa')
-    p.mb-5(data-aos="fade-down") La selección del método estadístico depende del tipo de proceso, la naturaleza de los datos disponibles y el objetivo del análisis. La correcta aplicación de estas herramientas fortalece la confiabilidad de la información, mejora la precisión en la toma de decisiones y contribuye al control y optimización de los procesos organizacionales.
+    p.mb-4(data-aos="fade-down") La selección del método estadístico depende del tipo de proceso, la naturaleza de los datos disponibles y el objetivo del análisis. La correcta aplicación de estas herramientas fortalece la confiabilidad de la información, mejora la precisión en la toma de decisiones y contribuye al control y optimización de los procesos organizacionales.
     .row.justify-content-center.mb-0
       .col.col-lg-9.col-12.order-lg-2.order-2
         .tarjeta.tarjeta--C01.p-4

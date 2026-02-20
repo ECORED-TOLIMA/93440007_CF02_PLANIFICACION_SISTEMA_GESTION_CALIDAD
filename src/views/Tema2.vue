@@ -277,7 +277,7 @@
       .col.col-lg-5.col-8.order-lg-2.order-1
         figure
           img(src='@/assets/curso/tema2/img12.png', alt='Imagen decorativa')
-      .col.col-lg-7.order-lg-1.order-2
+      .col.col-lg-7.col-12.order-lg-1.order-2
         .row.justify-content-center
           .col
             .tarjeta.tarjeta--C08.p-4

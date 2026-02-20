@@ -41,7 +41,7 @@
                     .row.justify-content-center
                       .col.col-12
                         .row.justify-content-center
-                          .col.col-lg-10.order-lg-2.order-2
+                          .col.col-lg-10.col-12.order-lg-2.order-2
                             p.mb-0(data-aos="fade-down") Los tipos de mejora se clasifican según su propósito, alcance y momento de aplicación. Cada uno responde a necesidades específicas dentro de la organización y permite fortalecer la eficacia del sistema.
                           .col.col-lg-auto.col-auto.order-lg-1.order-1.mb-3.mb-lg-0.mb-3
                             figure
