@@ -56,7 +56,7 @@
               .tarjeta.tarjeta--C01.p-3(titulo="Métodos de medición")
                 p.mb-0 Establecen la forma en que se realiza la medición, incluyendo procedimientos técnicos y protocolos definidos.
               .tarjeta.tarjeta--C01.p-3(titulo="Personal competente")
-                p.mb-0 garantiza que las mediciones se realicen correctamente, siguiendo los lineamientos establecidos.
+                p.mb-0 Garantiza que las mediciones se realicen correctamente, siguiendo los lineamientos establecidos.
               .tarjeta.tarjeta--C01.p-3(titulo="Condiciones ambientales")
                 p.mb-0 Influyen en la exactitud de los resultados, como temperatura, humedad o vibraciones.
               .tarjeta.tarjeta--C01.p-3(titulo="Registro y análisis de datos")

@@ -517,7 +517,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Una estrategia de marketing.',
+              texto: 'Una estrategia de <em>marketing</em>.',
               esCorrecta: false,
             },
           ],

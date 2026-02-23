@@ -486,6 +486,9 @@
       .col.col-lg-1.order-lg-1.order-1.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema1/img50.svg', alt='Imagen decorativa')
+    .row.justify-content-center.mb-4
+      .col.col-lg-10.col-12
+        p.text-center(data-aos="fade-down") A continuación, se presenta el mapa de procesos dentro del Sistema de Gestión de la Calidad.
     .row.justify-content-center.mb-0(data-aos="flip-up")
       .col.col-12
         .titulo-sexto.color-acento-contenido
@@ -496,7 +499,9 @@
           figure.desktop
             img(src='@/assets/curso/tema1/img51.svg', alt='La figura 2 representa un mapa de procesos del Sistema de Gestión de la Calidad que organiza los procesos en tres grupos: procesos estratégicos, que orientan el direccionamiento y la planificación organizacional; procesos operativos, relacionados con la prestación del servicio o elaboración del producto; y procesos de soporte, que suministran los recursos necesarios para el funcionamiento del sistema.')
       .col-12.movil
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_Mapa_de_procesos.pdf')" target="_blank")
+        figure.mb-4
+          img(src='@/assets/curso/tema1/img51_.svg', alt='La figura 2 representa un mapa de procesos del Sistema de Gestión de la Calidad que organiza los procesos en tres grupos: procesos estratégicos, que orientan el direccionamiento y la planificación organizacional; procesos operativos, relacionados con la prestación del servicio o elaboración del producto; y procesos de soporte, que suministran los recursos necesarios para el funcionamiento del sistema.')
+        a.anexo(:href="obtenerLink('/downloads/Anexo_Mapa_de_procesos.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

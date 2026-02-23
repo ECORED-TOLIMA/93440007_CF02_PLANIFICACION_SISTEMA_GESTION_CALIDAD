@@ -222,8 +222,20 @@
             .tarjeta.tarjeta--slyder.p-4
               .row.justify-content-center.mb-3
                 .col-6.col-lg-8
-                  img(src="@/assets/curso/tema5/img20.svg", alt="alt").img100.m-auto
-              p Validación
+                  img(src="@/assets/curso/tema5/img39.svg", alt="alt").img100.m-auto
+              p Salidas del diseño
+              ul.lista-ul.mb-0
+                li.mb-0
+                  i.lista-ul__vineta
+                  p.mb-0 Especificaciones del producto o servicio
+                li.mb-0
+                  i.lista-ul__vineta
+                  p.mb-0 Instrucciones operativas
+            .tarjeta.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-6.col-lg-8
+                  img(src="@/assets/curso/tema5/img40.svg", alt="alt").img100.m-auto
+              p Control de cambios
     p.mb-0(data-aos="fade-down") La aplicación de controles en el diseño y desarrollo permite reducir riesgos, prevenir errores y asegurar que los productos y servicios satisfagan las necesidades del cliente. De esta manera, la organización fortalece su capacidad de innovación, mejora la calidad de sus resultados y garantiza el cumplimiento de los requisitos del Sistema de Gestión de la Calidad.
     separador
     #t_5_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -247,7 +259,7 @@
                 img(src='@/assets/curso/tema5/img22.svg', alt='Imagen decorativa')
     .row.justify-content-center.mb-5
       .col.col-lg-8.col-12
-        p.mb-0(data-aos="fade-down") Entre las actividades que permiten ejercer control sobre los proveedores externos, se destacan:
+        p.mb-0.text-center(data-aos="fade-down") Entre las actividades que permiten ejercer control sobre los proveedores externos, se destacan:
     .row.mb-4.justify-content-center
       .col.col-lg-4.col-12.col-lg.mb-5.mb-lg-0(data-aos="flip-up")
         .tarjeta-avatar

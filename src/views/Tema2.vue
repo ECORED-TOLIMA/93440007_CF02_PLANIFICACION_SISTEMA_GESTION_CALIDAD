@@ -225,7 +225,7 @@
         p.mb-0 La interpretación y análisis de resultados constituye una actividad fundamental dentro del Sistema de Gestión de la Calidad, ya que permite evaluar el desempeño de los procesos, verificar el cumplimiento de los objetivos organizacionales e identificar oportunidades de mejora. Este análisis facilita la toma de decisiones basada en evidencia, contribuyendo al fortalecimiento de la gestión institucional.
     .row.justify-content-center.mb-5
       .col.col-lg-10.col-12
-        .cajon.cajon.C02.color-primario.p-4.mb-5.py-3
+        .cajon.cajon.C01.color-secundario.p-4.mb-5.py-3
           p.mb-0(data-aos="fade-down") La NTC ISO 9001 establece la importancia de realizar seguimiento, medición, análisis y evaluación de los procesos mediante indicadores que permitan comprender el comportamiento del sistema y determinar la eficacia de las acciones implementadas.
         p.mb-0(data-aos="fade-down") Para interpretar adecuadamente los indicadores, la organización debe comparar los resultados obtenidos con las metas establecidas, analizar tendencias, identificar desviaciones y definir acciones correctivas o de mejora cuando sea necesario.
     .row.justify-content-center.mb-5
