@@ -69,7 +69,7 @@
           img(src='@/assets/curso/tema1/img05.svg', alt='Imagen decorativa')
     p(data-aos="fade-down") La gestión de los procesos se fundamenta en los principios de gestión de la calidad establecidos en la NTC ISO 9001. Estos principios orientan la toma de decisiones, el direccionamiento estratégico y la mejora continua del desempeño organizacional.
     p(data-aos="fade-down") En el contexto de la gestión de procesos, los principios de calidad contribuyen a:
-    p.mb-5(data-aos="fade-down") Asimismo, la estrategia organizacional contribuye a:
+    //-p.mb-5(data-aos="fade-down") Asimismo, la estrategia organizacional contribuye a:
     .BG04.mb-5(data-aos="flip-up")
       .row.justify-content-center.align-items-center(data-aos="fade-down")
         .col-lg-4.d-none.d-lg-block

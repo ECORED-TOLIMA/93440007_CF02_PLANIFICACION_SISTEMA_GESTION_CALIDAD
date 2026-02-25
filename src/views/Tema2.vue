@@ -134,7 +134,7 @@
               p.mb-0(data-aos="fade-down") #[b Meta:] 95 % de solicitudes atendidas dentro del tiempo establecido.
               p.mb-0(data-aos="fade-down") #[b Frecuencia de medición:] mensual.
               p.mb-0(data-aos="fade-down") #[b Fuente de información:] registro de solicitudes del sistema de atención al cliente.
-              p(data-aos="fade-down") Responsable: coordinador del área de servicio al cliente.
+              p(data-aos="fade-down") #[b Responsable]: coordinador del área de servicio al cliente.
               .row.justify-content-center
                 .col.col-12
                   .tarjeta.tarjeta--blanca.p-3
