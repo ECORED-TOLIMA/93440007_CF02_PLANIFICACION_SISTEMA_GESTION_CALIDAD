@@ -45,27 +45,27 @@
               .row.justify-content-center.mb-3
                 .col-6.col-lg-8
                   img(src="@/assets/curso/tema5/img05.svg", alt="alt").img100.m-auto
-              p Entradas (Requisitos del cliente, requisitos legales, políticas y objetivos de calidad).
+              p Entradas (requisitos del cliente, requisitos legales, políticas y objetivos de calidad).
             .tarjeta.tarjeta--slyder.p-4
               .row.justify-content-center.mb-3
                 .col-6.col-lg-8
                   img(src="@/assets/curso/tema5/img06.svg", alt="alt").img100.m-auto
-              p Planificación operacional (Definición de actividades, recursos, responsables y criterios).
+              p Planificación operacional (definición de actividades, recursos, responsables y criterios).
             .tarjeta.tarjeta--slyder.p-4
               .row.justify-content-center.mb-3
                 .col-6.col-lg-8
                   img(src="@/assets/curso/tema5/img07.svg", alt="alt").img100.m-auto
-              p Ejecución del proceso (Producción o prestación del servicio).
+              p Ejecución del proceso (producción o prestación del servicio).
             .tarjeta.tarjeta--slyder.p-4
               .row.justify-content-center.mb-3
                 .col-6.col-lg-8
                   img(src="@/assets/curso/tema5/img08.svg", alt="alt").img100.m-auto
-              p Seguimiento y control (Indicadores, auditorías, verificación de resultados).
+              p Seguimiento y control (indicadores, auditorías, verificación de resultados).
             .tarjeta.tarjeta--slyder.p-4
               .row.justify-content-center.mb-3
                 .col-6.col-lg-8
                   img(src="@/assets/curso/tema5/img09.svg", alt="alt").img100.m-auto
-              p Salidas (Producto o servicio conforme).
+              p Salidas (producto o servicio conforme).
     p.mb-5(data-aos="fade-down") Posteriormente, se presentan los principales elementos que facilitan la planificación y el control operacional dentro del Sistema de Gestión de la Calidad:
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col.col-lg-10
