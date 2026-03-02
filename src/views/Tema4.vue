@@ -49,7 +49,7 @@
     .row.justify-content-center.mb-5(data-aos="flip-up")
       .col-12.mb-0
         .row.justify-content-center.align-items-center
-          .col-lg-9.col-12.mb-md-0.order-lg-2.order-2.mb-lg-0
+          .col-lg-12.col-12.mb-md-0.order-lg-2.order-2.mb-lg-0
             TabsA.color-acento-botones(data-aos="zoom-in")
               .tarjeta.tarjeta--C01.p-3(titulo="Instrumentos de medición")
                 p.mb-0 Permiten obtener datos cuantitativos, como balanzas, termómetros, calibres o equipos electrónicos.
@@ -61,7 +61,7 @@
                 p.mb-0 Influyen en la exactitud de los resultados, como temperatura, humedad o vibraciones.
               .tarjeta.tarjeta--C01.p-3(titulo="Registro y análisis de datos")
                 p.mb-0 Facilitan la trazabilidad de la información y permiten evaluar el desempeño de los procesos.
-          .col-lg-3.col-sm-4.col-10.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4
+          .col-lg-2.col-sm-4.col-10.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4.d-lg-none
             figure
               img(src='@/assets/curso/tema4/img06.png', alt='Imagen decorativa')
     .row.justify-content-center.mb-5
